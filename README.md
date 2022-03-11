@@ -24,11 +24,8 @@
 <br>
 
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** in **Android Development** and currently learning **Web Development** With Flutter💪.
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **Machine Learning & Python 🐍 projects**.
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> I Love **Machine Learning** and **Open CV**🌐
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" /> *Ask me* about **why do I think aliens 👽 exist.**
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> I Love **Machine Learning** and **Deep Learning**
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
 <br>
 
@@ -37,21 +34,17 @@
 <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>       <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Jupyter_Notebook%20-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white"/>  <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/OpenCV%20-%23FFBB00.svg?&style=for-the-badge&logo=Canonical&logoColor=white"/>
 
 <br>
-<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/super-kid.gif" alt="Super Kid">
 
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
-  <a href="https://www.linkedin.com/in/satyam-goyal26/">
+  <a href="https://www.linkedin.com/in/kamal-lahouir-b1a450207/">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/SatYug26">
+  <a href="https://twitter.com/KamalLahouir">
     <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/satyu.26/">
-    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:goyalsatyam8@gmail.com">
+  <a href="mailto:kamal.eddine.lahouir@gmail.com">
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
 
