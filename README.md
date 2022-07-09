@@ -5,7 +5,7 @@
     &nbsp; [![HitCount](http://hits.dwyl.com/SatYu26/SatYu26.svg)](http://hits.dwyl.com/SatYu26/SatYu26) 
 -->
 
-### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="5px"> Hello world!&nbsp;
+###  Hello world!&nbsp;
 
 
 <p>
@@ -13,20 +13,20 @@
    Hello, I'm an Artificial Intelligence student at my second year. <br>
    21 years of living a comical life! <br>
       <br>
-    <b>A friendly Neighbourhood Developer</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
+    <b>A friendly Neighbourhood Developer</b>  and a <b>Learning    Enthusiast,</b>&nbsp;<  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px"> <br>
+    <b>grow</b> and 
+    <b>excel.</b>  <br>
     I Love <b>Machine Learning and Deep Learning</b>. <br>
   </em>  
 </p>
 
 <br>
 
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **Machine Learning & Python 🐍 projects**.
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> I Love **Machine Learning** and **Deep Learning**
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
+- I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
+- I’m *looking to collaborate* on **Machine Learning & Python 🐍 projects**.
+- I Love **Machine Learning** and **Deep Learning**
+- Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
 <br>
 
 ## Languages and Tools:
