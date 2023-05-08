@@ -5,11 +5,11 @@ Hi there
 
 🚀 Skills:
 
-Programming languages: Python 🐍, C++ 🗃️, Java ☕
-Machine learning frameworks: TensorFlow 🤖, PyTorch 🔥
-Data analysis tools: NumPy 🔢, Pandas 🐼, Matplotlib 📈
-Other tools: Git 🌳, Linux 🐧, Jupyter Notebook 📓
-📫 Contact:
+Programming languages: Python 🐍, C++ 🗃️, Java ☕  
+Machine learning frameworks: TensorFlow 🤖, PyTorch 🔥  
+Data analysis tools: NumPy 🔢, Pandas 🐼, Matplotlib 📈  
+Other tools: Git 🌳, Linux 🐧, Jupyter Notebook 📓  
+
 
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
