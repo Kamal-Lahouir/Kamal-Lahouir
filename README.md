@@ -1,12 +1,12 @@
 # Kamal LAHOUIR&nbsp;
 
 Hi there
-👨‍💻 I'm currently working as an AI engineer intern, learning and contributing to various AI projects. I'm passionate about the field of artificial intelligence and its potential to change the world.
+👨‍💻 I'm currently working as an AI engineer, learning and contributing to various AI projects. I'm passionate about the field of artificial intelligence and its potential to change the world.
 
 🚀 Skills:
 
 Programming languages: Python 🐍, C++ 🗃️, Java ☕  
-Machine learning frameworks: TensorFlow 🤖, PyTorch 🔥  
+Machine learning frameworks: LangChain, TensorFlow 🤖, PyTorch 🔥
 Data analysis tools: NumPy 🔢, Pandas 🐼, Matplotlib 📈  
 Other tools: Git 🌳, Linux 🐧, Jupyter Notebook 📓  
 
